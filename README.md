@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Anur 👋
 
-<!--
-**AnurAfitahMI/AnurAfitahMI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Project Coordinator with more than 9 years of experience in event operations and project delivery.
 
-Here are some ideas to get you started:
+🎓 Diploma in Information Technology
+CGPA: 3.97/4.00
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📱 Currently showcasing my mobile application project:
+JagaPokok
+
+💻 Interested in Project Coordination, Digital Project Delivery, and Mobile Application Development.
+
+📍 Greater Kuala Lumpur, Malaysia
+
+## Connect with me
+
+LinkedIn:
+https://linkedin.com/in/aam1
